@@ -1,0 +1,126 @@
+{
+  "title": "Games",
+  "body": "<p>My passion for gaming began in the 1980s, when I would spend all night playing on the Nintendo Entertainment System at my friend's house. I later branched into computer gaming when my family bought our first PC, playing classics like SimCity and Heretic. As I got older I began to build my own computers so that I could continue to play the latest and greatest. What you see here are some of my favorites from over the years.</p>",
+  "data": [
+    {
+      "name": "Mega Man 2",
+      "platform": {
+        "type": "console",
+        "name": "NES"
+      },
+      "released": "1988-12-24",
+      "cover": "megaman2.jpg",
+      "link": "https://www.ebay.com/b/Mega-Man-2-Video-Games/139973/bn_7353916"
+    },
+    {
+      "name": "Super Mario Bros. 3",
+      "platform": {
+        "type": "console",
+        "name": "NES"
+      },
+      "released": "1990-02-12",
+      "cover": "smb3.png",
+      "link": "https://www.ebay.com/b/Super-Mario-Bros-3-Nintendo-NES-Video-Games/139973/bn_16494507"
+    },
+    {
+      "name": "Cities: Skylines",
+      "platform": {
+        "type": "pc",
+        "name": "Steam"
+      },
+      "released": "2015-03-10",
+      "cover": "citiesskylines.jpg",
+      "link": "http://store.steampowered.com/app/255710/Cities_Skylines/"
+    },
+    {
+      "name": "Don't Starve Together",
+      "platform": {
+        "type": "pc",
+        "name": "Steam"
+      },
+      "released": "2016-04-21",
+      "cover": "dontstarve.jpg",
+      "link": "http://store.steampowered.com/app/322330/Dont_Starve_Together/"
+    },
+    {
+      "name": "Double Dragon II",
+      "platform": {
+        "type": "console",
+        "name": "NES"
+      },
+      "released": "1989-12-22",
+      "cover": "doubledragon2.jpg",
+      "link": "https://www.ebay.com/b/Double-Dragon-II-The-Revenge-Nintendo-NES-Video-Games/139973/bn_80337852"
+    },
+    {
+      "name": "Fallout",
+      "platform": {
+        "type": "pc",
+        "name": "PC"
+      },
+      "released": "1997-09-30",
+      "cover": "fallout.jpg",
+      "link": "https://www.gog.com/game/fallout"
+    },
+    {
+      "name": "Fallout 3",
+      "platform": {
+        "type": "console",
+        "name": "Xbox 360"
+      },
+      "released": "2008-10-28",
+      "cover": "fallout3.jpg",
+      "link": "https://www.amazon.com/Fallout-3-Xbox-360/dp/B000UU3SVI"
+    },
+    {
+      "name": "Heretic",
+      "platform": {
+        "type": "pc",
+        "name": "DOS"
+      },
+      "released": "1994-12-23",
+      "cover": "heretic.jpg",
+      "link": "http://store.steampowered.com/app/2390/Heretic_Shadow_of_the_Serpent_Riders/"
+    },
+    {
+      "name": "Left 4 Dead 2",
+      "platform": {
+        "type": "console",
+        "name": "Xbox 360"
+      },
+      "released": "2009-11-17",
+      "cover": "l4d2.jpg",
+      "link": "https://www.amazon.com/Left-4-Dead-2-Xbox-360/dp/B002BRZ852"
+    },
+    {
+      "name": "Saints Row The Third",
+      "platform": {
+        "type": "pc",
+        "name": "PC"
+      },
+      "released": "2011-11-15",
+      "cover": "saintsrow3.jpg",
+      "link": "https://www.gog.com/game/saints_row_the_third_the_full_package"
+    },
+    {
+      "name": "SimCity 2000",
+      "platform": {
+        "type": "pc",
+        "name": "DOS"
+      },
+      "released": "1993",
+      "cover": "simcity2000.jpg",
+      "link": "https://www.gog.com/game/simcity_2000_special_edition"
+    },
+    {
+      "name": "Timesplitters: Future Perfect",
+      "platform": {
+        "type": "console",
+        "name": "Gamecube"
+      },
+      "released": "2005-03-21",
+      "cover": "timesplitters.jpg",
+      "link": "https://www.amazon.com/TimeSplitters-Future-Perfect-GameCube/dp/B0006ZJP7I"
+    }
+  ]
+}

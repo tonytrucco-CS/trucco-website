@@ -1,0 +1,24 @@
+.bottom-content {
+  position: fixed;
+  padding: $padding;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  min-height: 280px;
+  overflow-x: auto;
+  background-color: $dark-bg;
+  color: $white;
+  h2 {
+    margin: 0 0 $margin/2;
+    font-size: em(26);
+    border-bottom: solid 1px darken($dark-bg, 5);
+  }
+  ul {
+    li {
+      margin-right: $margin;
+      &:last-of-type {
+        margin-right: 0;
+      }
+    }
+  }
+}

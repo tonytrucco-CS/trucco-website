@@ -1,0 +1,28 @@
+@media (max-width: 768px) {
+
+  .game, .movie, .artist {
+    h2 {
+      font-size: em(24);
+      border-bottom: solid 1px darken($background-default, 15);
+    }
+    p {
+      font-size: em(16);
+    }
+    .stats {
+      opacity: 1;
+    }
+  }
+
+  .actor {
+    margin-bottom: $margin !important;
+  }
+
+  article {
+    h1 {
+      text-overflow: ellipsis;
+      overflow: hidden;
+      white-space: nowrap;
+    }
+  }
+
+}

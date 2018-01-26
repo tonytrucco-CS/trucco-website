@@ -1,0 +1,107 @@
+.artist {
+  list-style: none;
+  position: relative;
+  transition: all .3s;
+  margin-bottom: $margin;
+  > div:first-of-type {
+    @include aspect-ratio(1, 1);
+    margin-bottom: $margin/2;
+  }
+  h2 {
+    transition: all .3s;
+    font-weight: 400;
+    position: relative;
+    font-size: em(32);
+    text-align: center;
+    margin: 0 0 $margin/2;
+    border-top: solid 1px transparentize($background-default, 1); 
+    border-bottom: solid 1px transparentize($background-default, 1); 
+  }
+  .stats {
+    opacity: 0;
+    transition: .3s all ease-out;
+    padding-bottom: $padding/2;
+    margin-bottom: $margin/2;
+    border-bottom: solid 1px transparentize($background-default, 1);
+  }
+  p {
+    color: lighten($font-color, 20);
+    margin: 0;
+    font-weight: 400;
+    font-size: em(20);
+  }
+  &.inactive {
+    opacity: .5;
+    .artist-image {
+      filter: grayscale(100%);
+    }
+  }
+  &:hover, &.active {
+    h2 {
+      border-bottom: solid 1px darken($background-default, 15);
+    }
+    .stats {
+      opacity: 1;
+    }
+  }
+  &.active {
+    .artist-image {
+      pointer-events: none;
+      filter: grayscale(0%);
+      background-color: $header-bg;
+      background-blend-mode: screen;
+    }
+  }
+}
+
+.albums {
+  position: absolute;
+  bottom: 9px;
+  left: 0;
+  width: 100%;
+  padding: $padding $padding*2;
+  background-color: transparentize(darken($background-default, 10), .05);
+  animation-name: slide_up;
+  animation-duration: .5s;
+  i {
+    pointer-events: none;
+    color: darken($background-default, 20);
+    font-size: em(36);
+    transition: all .3s;
+    &.active {
+      pointer-events: initial;
+      color: $header-bg;
+      &:hover {
+        cursor: pointer;
+        color: lighten($header-bg, 10);
+      }
+    }
+  }
+}
+
+.album {
+  list-style: none;
+  margin-right: $margin/2;
+  animation-name: fade_in;
+  animation-duration: .3s;
+  pointer-events: none;
+  width: 100%;
+  &:last-of-type {
+    margin-right: 0;
+  }
+  img {
+    margin-bottom: $margin/2;
+    width: 100%;
+  }
+  h3 {
+    font-size: em(18);
+    color: $font-color;
+    margin: 0;
+    font-weight: 400;
+  }
+  p {
+    font-size: em(15);
+    color: transparentize($font-color, .25);
+    font-weight: 300;
+  }
+}

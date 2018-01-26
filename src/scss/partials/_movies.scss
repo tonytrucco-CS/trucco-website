@@ -1,0 +1,68 @@
+.movie {
+  list-style: none;
+  position: relative;
+  transition: all .3s;
+  margin-bottom: $margin;
+  img {
+    transition: .3s all;
+    width: 100%;
+    filter: grayscale(100%);
+    &:hover {
+      cursor: pointer;
+    }
+  }
+  h2 {
+    transition: all .3s;
+    font-weight: 400;
+    z-index: 20;
+    position: relative;
+    font-size: em(28);
+    text-align: center;
+    margin: 0 0 $margin/2;
+    border-top: solid 1px transparentize($background-default, 1); 
+    border-bottom: solid 1px transparentize($background-default, 1); 
+  }
+  .stats {
+    opacity: 0;
+    transition: .3s all ease-out;
+    padding-bottom: $padding/2;
+    margin-bottom: $margin/2;
+    border-bottom: solid 1px transparentize($background-default, 1);
+  }
+  p {
+    color: lighten($font-color, 20);
+    margin: 0;
+    font-weight: 400;
+    font-size: em(20);
+  }
+  &:hover {
+    h2 {
+      border-bottom: solid 1px darken($background-default, 15);
+    }
+    img {
+      opacity: 1;
+      filter: grayscale(0%);
+      box-shadow: 0 0 10px transparentize($black, .5);
+    }
+    .stats {
+      opacity: 1;
+    }
+  }
+}
+
+.actors {
+  margin-bottom: $margin*4;
+}
+
+.actor {
+  > div:first-of-type {
+    @include aspect-ratio(1, 1);
+    margin-bottom: $margin/2;
+  }
+  h3 {
+    text-align: center;
+    font-size: em(32);
+    font-weight: 400;
+    margin: 0;
+  }
+}

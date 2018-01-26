@@ -1,0 +1,402 @@
+{
+  "title": "Movies",
+  "body": "<p>For me, there's no better escape than sitting down at the end of a long day and watching a favorite movie. Whether it's a sci-fi adventure, a superhero team-up, or a comedy classic, you can be sure that I own a few.</p><p>Browse through some of my favorite films, and maybe you'll find a new one to love yourself.",
+  "data": [
+    {
+      "name": "Ant-Man",
+      "slug": "ant-man",
+      "cover": "antman.jpg",
+      "released": "2015-07-17",
+      "screens": [
+        "antman1.png", "antman2.jpg", "antman3.png"
+      ],
+      "link": "https://en.wikipedia.org/wiki/Ant-Man_(film)",
+      "synopsis": "<p>Ant-Man is a 2015 American superhero film based on the Marvel Comics characters of the same name: Scott Lang and Hank Pym. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the twelfth film in the Marvel Cinematic Universe (MCU). The film was directed by Peyton Reed, with a screenplay by the writing teams Edgar Wright and Joe Cornish, and Adam McKay and Paul Rudd. It stars Rudd as Scott Lang / Ant-Man, alongside Evangeline Lilly, Corey Stoll, Bobby Cannavale, Michael Peña, Tip 'T.I.' Harris, Anthony Mackie, Wood Harris, Judy Greer, David Dastmalchian, and Michael Douglas as Hank Pym. In Ant-Man, Lang must help defend Pym's Ant-Man shrinking technology and plot a heist with worldwide ramifications.</p>",
+      "actors": [
+        {
+          "name": "Paul Rudd",
+          "link": "https://en.wikipedia.org/wiki/Paul_Rudd",
+          "profile": "paul_rudd.jpg"
+        },
+        {
+          "name": "Evangaline Lilly",
+          "link": "https://en.wikipedia.org/wiki/Evangaline_Lilly",
+          "profile": "evangaline_lilly.jpg"
+        },
+        {
+          "name": "Michael Douglas",
+          "link": "https://en.wikipedia.org/wiki/Michael Douglas",
+          "profile": "michael_douglas.jpg"
+        }
+      ],
+      "director": {
+        "name": "Peyton Reed",
+        "link": "https://en.wikipedia.org/wiki/Peyton_Reed"
+      },
+      "runtime": 117
+    },
+    {
+      "name": "Clue",
+      "slug": "clue",
+      "cover": "clue.jpg",
+      "released": "1985-12-13",
+      "screens": [
+        "clue1.jpg", "clue2.jpg", "clue3.png"
+      ],
+      "link": "https://en.wikipedia.org/wiki/Clue_(film)",
+      "synopsis": "<p>Clue is a 1985 American ensemble mystery comedy film based on the board game of the same name. The film was directed by Jonathan Lynn, who collaborated on the script with John Landis, and stars Eileen Brennan, Tim Curry, Madeline Kahn, Christopher Lloyd, Michael McKean, Martin Mull, and Lesley Ann Warren. The film was produced by Debra Hill.</p>",
+      "actors": [
+        {
+          "name": "Tim Curry",
+          "link": "https://en.wikipedia.org/wiki/Tim_Curry",
+          "profile": "tim_curry.jpg"
+        },
+        {
+          "name": "Madeline Kahn",
+          "link": "https://en.wikipedia.org/wiki/Madeline_Kahn",
+          "profile": "madeline_kahn.jpg"
+        },
+        {
+          "name": "Christopher Lloyd",
+          "link": "https://en.wikipedia.org/wiki/Christopher_Lloyd",
+          "profile": "christopher_lloyd.jpg"
+        }
+      ],
+      "director": {
+        "name": "Jonathan Lynn",
+        "link": "https://en.wikipedia.org/wiki/Jonathan_Lynn"
+      },
+      "runtime": 97
+    },
+    {
+      "name": "Crank",
+      "slug": "crank",
+      "cover": "crank.jpg",
+      "released": "2006-09-01",
+      "screens": [
+        "crank1.jpg", "crank2.jpg"
+      ],
+      "link": "https://en.wikipedia.org/wiki/Crank_(film)",
+      "synopsis": "<p>Crank is a 2006 American black comedy action film written and directed by Mark Neveldine and Brian Taylor and starring Jason Statham, Amy Smart and Jose Pablo Cantillo. The plot centers on a British hitman in Los Angeles named Chev Chelios who is poisoned and must keep his adrenaline flowing constantly in order to keep himself alive. He does so by various methods including taking drugs and getting into fights, while he tries to track down the man who poisoned him. The title of the film comes from the slang word for methamphetamine.</p>",
+      "actors": [
+        {
+          "name": "Jason Statham",
+          "link": "https://en.wikipedia.org/wiki/Jason_Statham",
+          "profile": "jason_statham.jpg"
+        },
+        {
+          "name": "Amy Smart",
+          "link": "https://en.wikipedia.org/wiki/Amy_Smart",
+          "profile": "amy_smart.jpg"
+        },
+        {
+          "name": "Jose Pablo Cantillo",
+          "link": "https://en.wikipedia.org/wiki/Jose_Pablo_Cantillo",
+          "profile": "jose_pablo_cantillo.jpg"
+        }
+      ],
+      "director": {
+        "name": "Neveldine/Taylor",
+        "link": "https://en.wikipedia.org/wiki/Neveldine/Taylor"
+      },
+      "runtime": 88
+    },
+    {
+      "name": "The Fifth Element",
+      "slug": "the-fifth-element",
+      "cover": "fifthelement.jpg",
+      "released": "1997-05-07",
+      "screens": [
+        "fifthelement1.jpg", "fifthelement2.jpg", "fifthelement3.jpg"
+      ],
+      "link": "https://en.wikipedia.org/wiki/The_Fifth_Element",
+      "synopsis": "<p>The Fifth Element (French: Le Cinquième Élément) is a 1997 English-language French science-fiction action film directed and co-written by Luc Besson. It stars Bruce Willis, Gary Oldman and Milla Jovovich. Primarily set in the 23rd century, the film's central plot involves the survival of planet Earth, which becomes the responsibility of Korben Dallas (Willis), a taxicab driver and former special forces major, after a young woman (Jovovich) falls into his cab. Dallas joins forces with her to recover four mystical stones essential for the defence of Earth against an impending attack.</p>",
+      "actors": [
+        {
+          "name": "Bruce Willis",
+          "link": "https://en.wikipedia.org/wiki/Bruce_Willis",
+          "profile": "bruce_willis.jpg"
+        },
+        {
+          "name": "Gary Oldman",
+          "link": "https://en.wikipedia.org/wiki/Gary_Oldman",
+          "profile": "gary_oldman.jpg"
+        },
+        {
+          "name": "Milla Jovovich",
+          "link": "https://en.wikipedia.org/wiki/Milla_Jovovich",
+          "profile": "milla_jovovich.jpg"
+        }
+      ],
+      "director": {
+        "name": "Luc Besson",
+        "link": "https://en.wikipedia.org/wiki/Luc_Besson"
+      },
+      "runtime": 126
+    },
+    {
+      "name": "Hunter Prey",
+      "slug": "hunter-prey",
+      "cover": "hunterprey.jpg",
+      "released": "2010-05-01",
+      "screens": [
+        "hunterprey1.jpg", "hunterprey2.jpg"
+      ],
+      "link": "https://en.wikipedia.org/wiki/Hunter_Prey",
+      "synopsis": "<p>Hunter Prey is a 2010 independent science fiction action film directed by Sandy Collora, and written by Nick Damon and Collora. It stars Damion Poitier, Isaac C. Singleton Jr. and Clark Bartram. After their ship crash lands on a desert planet, an elite team of commandos attempt to recapture the last survivor of a destroyed planet before he can retaliate against their homeworld.</p>",
+      "actors": [
+        {
+          "name": "Damion Poitier",
+          "link": "https://en.wikipedia.org/wiki/Damion_Poitier",
+          "profile": "damion_poitier.jpg"
+        },
+        {
+          "name": "Isaac C. Singleton Jr.",
+          "link": "https://en.wikipedia.org/wiki/Isaac_C._Singleton_Jr.",
+          "profile": "isaac_singleton.jpg"
+        },
+        {
+          "name": "Clark Bartram",
+          "link": "http://www.imdb.com/name/nm1298134/",
+          "profile": "clark_bartram.jpg"
+        }
+      ],
+      "director": {
+        "name": "Sandy Collora",
+        "link": "https://en.wikipedia.org/wiki/Sandy_Collora"
+      },
+      "runtime": 90
+    },
+    {
+      "name": "Inception",
+      "slug": "inception",
+      "cover": "inception.jpg",
+      "released": "2010-07-16",
+      "screens": [
+        "inception1.jpg", "inception2.jpg", "inception3.png"
+      ],
+      "link": "https://en.wikipedia.org/wiki/Inception",
+      "synopsis": "<p>Inception is a 2010 science fiction film written, co-produced, and directed by Christopher Nolan, and co-produced by Emma Thomas. The film stars Leonardo DiCaprio as a professional thief who steals information by infiltrating the subconscious, and is offered a chance to have his criminal history erased as payment for the implantation of another person's idea into a target's subconscious. The ensemble cast additionally includes Ken Watanabe, Joseph Gordon-Levitt, Marion Cotillard, Ellen Page, Tom Hardy, Dileep Rao, Cillian Murphy, Tom Berenger, and Michael Caine.</p>",
+      "actors": [
+        {
+          "name": "Leonardo DiCaprio",
+          "link": "https://en.wikipedia.org/wiki/Leonardo_DiCaprio",
+          "profile": "leonardo_dicaprio.jpg"
+        },
+        {
+          "name": "Joseph Gordon-Levitt",
+          "link": "https://en.wikipedia.org/wiki/Joseph_Gordon-Levitt",
+          "profile": "joseph_gordon-levitt.jpg"
+        },
+        {
+          "name": "Ellen Page",
+          "link": "https://en.wikipedia.org/wiki/Ellen_Page",
+          "profile": "ellen_page.jpg"
+        }
+      ],
+      "director": {
+        "name": "Christopher Nolan",
+        "link": "https://en.wikipedia.org/wiki/Christopher_Nolan"
+      },
+      "runtime": 148
+    },
+    {
+      "name": "The Karate Kid",
+      "slug": "the-karate-kid",
+      "cover": "karatekid.jpg",
+      "released": "1984-06-22",
+      "screens": [
+        "karatekid1.jpg", "karatekid2.jpg", "karatekid3.jpg"
+      ],
+      "link": "https://en.wikipedia.org/wiki/The_Karate_Kid",
+      "synopsis": "<p>The Karate Kid is a 1984 American martial arts drama film produced by Jerry Weintraub, directed by John G. Avildsen, written by Robert Mark Kamen, and stars Ralph Macchio, Pat Morita and Elisabeth Shue. It is an underdog story in the mold of a previous success with Rocky (1976), which Avildsen also directed. The film features the Gōjū-ryū style of karate. The Karate Kid was a commercial success upon release and garnered critical acclaim, earning Morita an Academy Award nomination for Best Supporting Actor. The film became the first installment in an ongoing film series, spawning three sequels, a 2010 remake and an upcoming follow-up television series.</p>",
+      "actors": [
+        {
+          "name": "Ralph Macchio",
+          "link": "https://en.wikipedia.org/wiki/Ralph_Macchio",
+          "profile": "ralph_macchio.jpg"
+        },
+        {
+          "name": "Pat Morita",
+          "link": "https://en.wikipedia.org/wiki/Pat_Morita",
+          "profile": "pat_morita.jpg"
+        },
+        {
+          "name": "Elizabeth Shue",
+          "link": "https://en.wikipedia.org/wiki/Elizabeth_Shue",
+          "profile": "elizabeth_shue.jpg"
+        }
+      ],
+      "director": {
+        "name": "John G. Avildsen",
+        "link": "https://en.wikipedia.org/wiki/John_G._Avildsen"
+      },
+      "runtime": 127
+    },
+    {
+      "name": "Mad Max 2",
+      "slug": "mad-max-2",
+      "cover": "madmax2.jpg",
+      "released": "1981-12-24",
+      "screens": [
+        "madmax1.jpg", "madmax2.jpg", "madmax3.jpg"
+      ],
+      "link": "https://en.wikipedia.org/wiki/Mad_Max_2",
+      "synopsis": "<p>Mad Max 2 (originally released in the United States as The Road Warrior and sometimes known as Mad Max 2: The Road Warrior) is a 1981 Australian post-apocalyptic action film directed by George Miller. The film is the second installment in the Mad Max film series, with Mel Gibson reprising his role as 'Mad' Max Rockatansky. The film's tale of a community of settlers who moved to defend themselves against a roving band of marauders follows an archetypical 'Western' frontier movie motif, as does Max's role as a hardened man who rediscovers his humanity when he decides to help the settlers. Filming took place in locations around Broken Hill, in the outback of New South Wales.</p>",
+      "actors": [
+        {
+          "name": "Mel Gibson",
+          "link": "https://en.wikipedia.org/wiki/Mel_Gibson",
+          "profile": "mel_gibson.jpg"
+        },
+        {
+          "name": "Bruce Spence",
+          "link": "https://en.wikipedia.org/wiki/Bruce_Spence",
+          "profile": "bruce_spence.jpg"
+        },
+        {
+          "name": "Vernon Wells",
+          "link": "https://en.wikipedia.org/wiki/Vernon_Wells",
+          "profile": "vernon_wells.jpg"
+        }
+      ],
+      "director": {
+        "name": "George Miller",
+        "link": "https://en.wikipedia.org/wiki/George_Miller"
+      },
+      "runtime": 96
+    },
+    {
+      "name": "Oblivion",
+      "slug": "oblivion",
+      "cover": "oblivion.jpg",
+      "released": "2013-04-19",
+      "screens": [
+        "oblivion1.jpg", "oblivion2.jpg", "oblivion3.jpg"
+      ],
+      "link": "https://en.wikipedia.org/wiki/Oblivion_(2013_film)",
+      "synopsis": "<p>Oblivion is a 2013 American post-apocalyptic science fiction film based on Joseph Kosinski's unpublished Radical Publishing graphic novel of the same name. The film was co-produced and directed by Kosinski. It stars Tom Cruise, Morgan Freeman, Andrea Riseborough, and Olga Kurylenko. The film was released in the U.S. on April 19, 2013. According to Kosinski, Oblivion pays homage to science fiction films of the 1970s.</p>",
+      "actors": [
+        {
+          "name": "Tom Cruise",
+          "link": "https://en.wikipedia.org/wiki/Tom_Cruise",
+          "profile": "tom_cruise.jpg"
+        },
+        {
+          "name": "Morgan Freeman",
+          "link": "https://en.wikipedia.org/wiki/Morgan_Freeman",
+          "profile": "morgan_freeman.jpg"
+        },
+        {
+          "name": "Olga Kurylenko",
+          "link": "https://en.wikipedia.org/wiki/Olga_Kurylenko",
+          "profile": "olga_kurylenko.jpg"
+        }
+      ],
+      "director": {
+        "name": "Joseph Kosinski",
+        "link": "https://en.wikipedia.org/wiki/Joseph_Kosinski"
+      },
+      "runtime": 124
+    },
+    {
+      "name": "Spaceballs",
+      "slug": "spaceballs",
+      "cover": "spaceballs.jpg",
+      "released": "1987-06-24",
+      "screens": [
+        "spaceballs1.jpg", "spaceballs2.png", "spaceballs3.jpg"
+      ],
+      "link": "https://en.wikipedia.org/wiki/Ant-Man_(film)",
+      "synopsis": "<p>Spaceballs is a 1987 American comic science fiction film co-written, produced and directed by Mel Brooks. Starring Brooks, Bill Pullman, John Candy, and Rick Moranis, the film also features Daphne Zuniga, Dick Van Patten, and the voice of Joan Rivers. In addition to Brooks in a supporting role, the film also features Brooks regulars Dom DeLuise and Rudy De Luca in cameo appearances.</p>",
+      "actors": [
+        {
+          "name": "Bill Pullman",
+          "link": "https://en.wikipedia.org/wiki/Bill_Pullman",
+          "profile": "bill_pullman.jpg"
+        },
+        {
+          "name": "John Candy",
+          "link": "https://en.wikipedia.org/wiki/John_Candy",
+          "profile": "john_candy.jpg"
+        },
+        {
+          "name": "Rick Moranis",
+          "link": "https://en.wikipedia.org/wiki/Rick_Moranis",
+          "profile": "rick_moranis.jpeg"
+        }
+      ],
+      "director": {
+        "name": "Mel Brooks",
+        "link": "https://en.wikipedia.org/wiki/Mel_Brooks"
+      },
+      "runtime": 96
+    },
+    {
+      "name": "The Room",
+      "slug": "the-room",
+      "cover": "theroom.jpg",
+      "released": "2003-06-27",
+      "screens": [
+        "theroom1.jpg", "theroom2.jpg", "theroom3.jpg"
+      ],
+      "link": "https://en.wikipedia.org/wiki/The_Room_(film)",
+      "synopsis": "<p>The Room is a 2003 American independent drama film written, directed, produced by and starring Tommy Wiseau, and co-starring Greg Sestero and Juliette Danielle. The film centers on a melodramatic love triangle between amiable banker Johnny (Wiseau), his deceptive fiancée Lisa (Danielle) and his conflicted best friend Mark (Sestero). A significant portion of the film is dedicated to a series of unrelated subplots, most of which involve at least one supporting character, and are unresolved due to the film's inconsistent narrative structure. According to Wiseau, the title alludes to the potential of a room to be the site of both good and bad events; the stage play from which the screenplay is derived takes place in a single room. Sestero has explained that the film is semi-autobiographical, and attempts to serve as 'an advisory warning about the perils of having friends'.</p>",
+      "actors": [
+        {
+          "name": "Tommy Wiseau",
+          "link": "https://en.wikipedia.org/wiki/Tommy_Wiseau",
+          "profile": "tommy_wiseau.jpg"
+        },
+        {
+          "name": "Greg Sestero",
+          "link": "https://en.wikipedia.org/wiki/Greg_Sestero",
+          "profile": "greg_sestero.jpg"
+        },
+        {
+          "name": "Juliette Danielle",
+          "link": "https://en.wikipedia.org/wiki/Juliette_Danielle",
+          "profile": "juliette_danielle.jpg"
+        }
+      ],
+      "director": {
+        "name": "Tommy Wiseau",
+        "link": "https://en.wikipedia.org/wiki/Tommy_Wiseau"
+      },
+      "runtime": 99
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles",
+      "slug": "teenage-mutant-ninja-turtles",
+      "cover": "teenagemutantninjaturtles.jpg",
+      "released": "1990-03-30",
+      "screens": [
+        "teenagemutantninjaturtles1.jpg", "teenagemutantninjaturtles2.jpg", "teenagemutantninjaturtles3.jpg"
+      ],
+      "link": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(1990_film)",
+      "synopsis": "<p>Teenage Mutant Ninja Turtles is a 1990 American superhero action comedy film directed by Steve Barron, based on the comic book characters of the same name. Released on March 30, 1990, the film presents the origin story of Splinter and the Turtles, their meeting April O'Neil and Casey Jones, and their first confrontation with Shredder and his Foot Clan. It stars Judith Hoag, Elias Koteas, and the voices of Brian Tochi, Robbie Rist, Corey Feldman, and Josh Pais as the four title characters. The turtle costumes were developed by Jim Henson's Creature Shop, and was one of the last projects that Henson was involved in prior to his death.</p>",
+      "actors": [
+        {
+          "name": "Judith Hoag",
+          "link": "https://en.wikipedia.org/wiki/Judith_Hoag",
+          "profile": "judith_hoag.jpg"
+        },
+        {
+          "name": "Elias Koteas",
+          "link": "https://en.wikipedia.org/wiki/Elias_Koteas",
+          "profile": "elias_koteas.jpg"
+        },
+        {
+          "name": "James Saito",
+          "link": "https://en.wikipedia.org/wiki/James_Saito",
+          "profile": "james_saito.jpg"
+        }
+      ],
+      "director": {
+        "name": "Steve Barron",
+        "link": "https://en.wikipedia.org/wiki/Steve_Barron"
+      },
+      "runtime": 93
+    }
+  ]
+}

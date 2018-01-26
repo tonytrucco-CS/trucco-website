@@ -1,0 +1,335 @@
+{
+  "title": "Music",
+  "body": "<p>Music has always been a huge part of my life. My older brother introduced me to some of my favorite bands, and from there my interests and tastes have expanded. I prefer metal (particularly European metal), but there's plenty of room for other genres and styles.</p><p>Below is a sample of some of my favorite bands, featuring clickable profile pictures and modest discography information.</p>",
+  "data": [
+    {
+      "name": "Astronoid",
+      "slug": "astronoid",
+      "cover": "astronoid.jpg",
+      "formed": "2012",
+      "albums": [
+        {
+          "title": "Astronoid",
+          "cover": "album1.jpg",
+          "released": "2016"
+        }
+      ]
+    },
+    {
+      "name": "Ayreon",
+      "slug": "ayreon",
+      "cover": "ayreon.jpg",
+      "formed": "1995",
+      "albums": [
+        {
+          "title": "The Final Experiment",
+          "cover": "album1.jpg",
+          "released": "1995"
+        },
+        {
+          "title": "Actual Fantasy",
+          "cover": "album2.jpg",
+          "released": "1996"
+        },
+        {
+          "title": "Into the Electric Castle",
+          "cover": "album3.jpg",
+          "released": "1998"
+        },
+        {
+          "title": "Universal Migrator: Part 1",
+          "cover": "album4.jpg",
+          "released": "2000"
+        },
+        {
+          "title": "Universal Migrator: Part 2",
+          "cover": "album5.jpg",
+          "released": "2000"
+        },
+        {
+          "title": "The Human Equation",
+          "cover": "album6.jpg",
+          "released": "2004"
+        },
+        {
+          "title": "01011001",
+          "cover": "album7.jpg",
+          "released": "2008"
+        },
+        {
+          "title": "The Theory of Everything",
+          "cover": "album8.jpg",
+          "released": "2013"
+        },
+        {
+          "title": "The Source",
+          "cover": "album9.jpg",
+          "released": "2017"
+        }
+      ]
+    },
+    {
+      "name": "Dio",
+      "slug": "dio",
+      "cover": "dio.jpg",
+      "formed": "1982",
+      "albums": [
+        {
+          "title": "Holy Diver",
+          "cover": "album1.jpg",
+          "released": "1983"
+        },
+        {
+          "title": "The Last in Line",
+          "cover": "album2.jpg",
+          "released": "1984"
+        },
+        {
+          "title": "Sacred Heart",
+          "cover": "album3.jpg",
+          "released": "1985"
+        },
+        {
+          "title": "Dream Evil",
+          "cover": "album4.jpg",
+          "released": "1987"
+        },
+        {
+          "title": "Lock Up the Wolves",
+          "cover": "album5.jpg",
+          "released": "1990"
+        },
+        {
+          "title": "Strange Highways",
+          "cover": "album6.jpg",
+          "released": "1993"
+        },
+        {
+          "title": "Angry Machines",
+          "cover": "album7.jpg",
+          "released": "1996"
+        },
+        {
+          "title": "Magica",
+          "cover": "album8.jpg",
+          "released": "2000"
+        },
+        {
+          "title": "Killing the Dragon",
+          "cover": "album9.jpg",
+          "released": "2002"
+        },
+        {
+          "title": "Master of the Moon",
+          "cover": "album10.jpg",
+          "released": "2004"
+        }
+      ]
+    },
+    {
+      "name": "Ensiferum",
+      "slug": "ensiferum",
+      "cover": "ensiferum.jpg",
+      "formed": "1995",
+      "albums": [
+        {
+          "title": "Ensiferum",
+          "cover": "album1.png",
+          "released": "2001"
+        },
+        {
+          "title": "Iron",
+          "cover": "album2.jpg",
+          "released": "2004"
+        },
+        {
+          "title": "Victory Songs",
+          "cover": "album3.png",
+          "released": "2007"
+        },
+        {
+          "title": "From Afar",
+          "cover": "album4.jpg",
+          "released": "2009"
+        },
+        {
+          "title": "Unsung Heroes",
+          "cover": "album5.jpg",
+          "released": "2012"
+        },
+        {
+          "title": "One Man Army",
+          "cover": "album6.jpg",
+          "released": "2015"
+        },
+        {
+          "title": "Two Paths",
+          "cover": "album7.jpg",
+          "released": "2017"
+        }
+      ]
+    },
+    {
+      "name": "Heavenly",
+      "slug": "heavenly",
+      "cover": "heavenly.jpg",
+      "formed": "1993",
+      "albums": [
+        {
+          "title": "Coming from the Sky",
+          "cover": "album1.jpg",
+          "released": "2000"
+        },
+        {
+          "title": "Sign of the Winner",
+          "cover": "album2.jpg",
+          "released": "2001"
+        },
+        {
+          "title": "Dust to Dust",
+          "cover": "album3.jpg",
+          "released": "2004"
+        },
+        {
+          "title": "Virus",
+          "cover": "album4.jpg",
+          "released": "2006"
+        },
+        {
+          "title": "Carpe Diem",
+          "cover": "album5.jpg",
+          "released": "2009"
+        }
+      ]
+    },
+    {
+      "name": "Katatonia",
+      "slug": "katatonia",
+      "cover": "katatonia.png",
+      "formed": "1991",
+      "albums": [
+        {
+          "title": "Dance of December Souls",
+          "cover": "album1.jpg",
+          "released": "1993"
+        },
+        {
+          "title": "Brave Murder Day",
+          "cover": "album2.jpg",
+          "released": "1996"
+        },
+        {
+          "title": "Discouraged Ones",
+          "cover": "album3.jpg",
+          "released": "1998"
+        },
+        {
+          "title": "Tonight's Decision",
+          "cover": "album4.jpg",
+          "released": "1999"
+        },
+        {
+          "title": "Last Fair Deal Gone Down",
+          "cover": "album5.jpg",
+          "released": "2001"
+        },
+        {
+          "title": "Viva Emptiness",
+          "cover": "album6.jpg",
+          "released": "2003"
+        },
+        {
+          "title": "The Great Cold Distance",
+          "cover": "album7.jpg",
+          "released": "2006"
+        },
+        {
+          "title": "Night is the New Day",
+          "cover": "album8.jpg",
+          "released": "2009"
+        },
+        {
+          "title": "Dead End Kings",
+          "cover": "album9.jpg",
+          "released": "2012"
+        },
+        {
+          "title": "The Fall of Hearts",
+          "cover": "album10.jpg",
+          "released": "2016"
+        }
+      ]
+    },
+    {
+      "name": "M83",
+      "slug": "m83",
+      "cover": "m83.jpg",
+      "formed": "2001",
+      "albums": [
+        {
+          "title": "M83",
+          "cover": "album1.jpg",
+          "released": "2001"
+        },
+        {
+          "title": "Dead Cities, Red Seas & Lost Ghosts",
+          "cover": "album2.jpg",
+          "released": "2003"
+        },
+        {
+          "title": "Before the Dawn Heals Us",
+          "cover": "album3.jpg",
+          "released": "2005"
+        },
+        {
+          "title": "Digital Shades Vol. 1",
+          "cover": "album4.jpg",
+          "released": "2007"
+        },
+        {
+          "title": "Saturdays = Youth",
+          "cover": "album5.png",
+          "released": "2008"
+        },
+        {
+          "title": "Hurry Up, We're Dreaming",
+          "cover": "album6.jpg",
+          "released": "2011"
+        },
+        {
+          "title": "Junk",
+          "cover": "album7.png",
+          "released": "2016"
+        }
+      ]
+    },
+    {
+      "name": "Seventh Wonder",
+      "slug": "seventh-wonder",
+      "cover": "seventhwonder.jpg",
+      "formed": "2000",
+      "albums": [
+        {
+          "title": "Become",
+          "cover": "album1.jpg",
+          "released": "2005"
+        },
+        {
+          "title": "Waiting in the Wings",
+          "cover": "album2.jpg",
+          "released": "2006"
+        },
+        {
+          "title": "Mercy Falls",
+          "cover": "album3.jpg",
+          "released": "2008"
+        },
+        {
+          "title": "The Great Escape",
+          "cover": "album4.jpg",
+          "released": "2010"
+        }
+      ]
+    }
+  ]
+}

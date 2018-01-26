@@ -1,0 +1,51 @@
+.header {
+  background-color: $header-bg;
+  font-size: em(16);
+  display: flex;
+  justify-content: center;
+  padding: $padding 0;
+  ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+  }
+  li {
+    list-style: none;
+    margin: 0;
+    &:not(:first-of-type) {
+      margin-left: $margin*2;
+    }
+  }
+  a {
+    color: $background-default;
+    text-decoration: none;
+    font-weight: 300;
+    font-size: em(25);
+    transition: .3s all;
+    padding: 0 0 ($padding - 4px);
+    &:hover:not(.active) {
+      color: $darker-bg;
+      cursor: pointer;
+    }
+    &.active {
+      color: $darker-bg;
+      font-weight: 400;
+    }
+  }
+}
+
+.section-close {
+  border: solid 1px darken($background-default, 15);
+  border-radius: 4px 4px 4px 0;
+  padding: $padding/1.25 $padding/1.5;
+  transition: background-color .3s;
+  &:hover {
+    cursor: pointer;
+    background-color: darken($background-default, 5);
+  }
+  i {
+    font-size: em(24);
+    color: lighten($header-bg, 5);
+  }
+}
