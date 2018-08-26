@@ -25,6 +25,8 @@ class MovieDetails extends React.Component {
     if (platform.name !== 'Microsoft Edge' && platform.name !== 'IE') {
       document.getElementById('image-bg').style.backgroundImage = `url(${process.env.PUBLIC_URL}/images/movies/screens/${_.sample(screens)})`;
     }
+
+    window.scrollTo(0, 0);
   }
 
   render() {

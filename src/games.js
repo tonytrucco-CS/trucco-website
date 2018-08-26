@@ -34,6 +34,10 @@ class Games extends React.Component {
     }
   }
 
+  componentDidMount() {
+    window.scrollTo(0, 0)
+  }
+
   setQuery(query) {
     if (query === 'all') {
       this.props.history.push('/games')

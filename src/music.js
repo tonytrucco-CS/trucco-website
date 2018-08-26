@@ -44,6 +44,10 @@ class Music extends React.Component {
     }
   }
 
+  componentDidMount() {
+    window.scrollTo(0, 0)
+  }
+
   setQuery(query) {
     if (query === 'name') {
       this.props.history.push('/music');
