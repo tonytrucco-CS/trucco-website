@@ -121,3 +121,51 @@ ul, ol {
   }
 
 }
+
+
+
+// bullshit career stuff
+body.career {
+  background-color: #454545;
+}
+
+.Career {
+  h2 {
+    margin: 0 0 .5rem;
+  }
+
+  h3 {
+    font-size: 80%;
+    margin: 0 0 1rem;
+  }
+
+  h2, h3 {
+    color: rgba(125, 125, 125, .75);
+    text-transform: uppercase;
+  }
+
+  li p {
+    font-size: 2rem;
+    margin: 0;
+    line-height: 1.5;
+    transition: color .3s;
+  }
+
+  p.selected {
+    color: #666666;
+  }
+
+  li:hover {
+    cursor: pointer;
+  }
+
+  li {
+    margin: 0;
+  }
+
+  ul {
+    margin: 0 0 2rem;
+    display: block;
+  }
+
+}

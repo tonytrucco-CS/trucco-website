@@ -3,6 +3,7 @@ import { Switch, Route } from 'react-router-dom'
 
 import Home from './home'
 import Games from './games'
+import Career from './career'
 import Music from './music'
 import Movies from './movies'
 import MovieDetails from './moviedetails'
@@ -16,6 +17,7 @@ class Main extends React.Component {
         <Route exact path='/movies' component={ Movies } />
         <Route path='/movies/:slug' component={ MovieDetails } />
         <Route exact path='/games' component={ Games } />
+        <Route exact path='/career' component={ Career } />
       </Switch>
     )
   }

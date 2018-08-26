@@ -38,6 +38,9 @@ class Artists extends React.Component {
 
   render() {
     let artists = _.sortBy(this.props.artists, this.props.sort);
+    if (this.props.sort === 'albums') {
+      artists = _.reverse(artists);
+    }
     return (
       <ul className='flex start c4'>
         {

@@ -16,7 +16,7 @@ class Home extends React.Component {
           <div style={{ textAlign: 'center' }}>
           <div className='self'>
             <CircleProfile
-              image='/images/tonytrucco.jpg'
+              image='/images/tonytrucco.gif'
             />
           </div>
           <Label

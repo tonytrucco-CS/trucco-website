@@ -16,6 +16,49 @@
       ]
     },
     {
+      "name": "Avantasia",
+      "slug": "avantasia",
+      "cover": "avantasia.jpg",
+      "formed": "1999",
+      "albums": [
+        {
+          "title": "The Metal Opera",
+          "cover": "album1.jpg",
+          "released": "2001"
+        },
+        {
+          "title": "The Metal Opera Part II",
+          "cover": "album2.jpg",
+          "released": "2002"
+        },
+        {
+          "title": "The Scarecrow",
+          "cover": "album3.jpg",
+          "released": "2008"
+        },
+        {
+          "title": "The Wicked Symphony",
+          "cover": "album4.jpg",
+          "released": "2010"
+        },
+        {
+          "title": "Angel of Babylon",
+          "cover": "album5.jpg",
+          "released": "2010"
+        },
+        {
+          "title": "The Mystery of Time",
+          "cover": "album6.jpg",
+          "released": "2013"
+        },
+        {
+          "title": "Ghostlights",
+          "cover": "album7.jpg",
+          "released": "2016"
+        }
+      ]
+    },
+    {
       "name": "Ayreon",
       "slug": "ayreon",
       "cover": "ayreon.jpg",
@@ -203,6 +246,59 @@
       ]
     },
     {
+      "name": "Jorn",
+      "slug": "jorn",
+      "cover": "jorn.jpg",
+      "formed": "2000",
+      "albums": [
+        {
+          "title": "Starfire",
+          "cover": "album1.jpg",
+          "released": "2000"
+        },
+        {
+          "title": "Worldchanger",
+          "cover": "album2.jpg",
+          "released": "2001"
+        },
+        {
+          "title": "Out to Every Nation",
+          "cover": "album3.jpg",
+          "released": "2004"
+        },
+        {
+          "title": "The Duke",
+          "cover": "album4.jpg",
+          "released": "2006"
+        },
+        {
+          "title": "Lonely Are the Brave",
+          "cover": "album5.jpg",
+          "released": "2008"
+        },
+        {
+          "title": "Spirit Black",
+          "cover": "album6.jpg",
+          "released": "2009"
+        },
+        {
+          "title": "Bring Heavy Rock to the Land",
+          "cover": "album7.jpg",
+          "released": "2012"
+        },
+        {
+          "title": "Traveller",
+          "cover": "album8.jpg",
+          "released": "2013"
+        },
+        {
+          "title": "Life on Death Road",
+          "cover": "album9.jpg",
+          "released": "2017"
+        }
+      ]
+    },
+    {
       "name": "Katatonia",
       "slug": "katatonia",
       "cover": "katatonia.png",
@@ -261,6 +357,34 @@
       ]
     },
     {
+      "name": "Keldian",
+      "slug": "keldian",
+      "cover": "keldian.jpg",
+      "formed": "2005",
+      "albums": [
+        {
+          "title": "Heaven's Gate",
+          "cover": "album1.jpg",
+          "released": "2007"
+        },
+        {
+          "title": "Journey of Souls",
+          "cover": "album2.jpg",
+          "released": "2008"
+        },
+        {
+          "title": "Outbound",
+          "cover": "album3.jpg",
+          "released": "2013"
+        },
+        {
+          "title": "Darkness and Light",
+          "cover": "album4.jpg",
+          "released": "2017"
+        }
+      ]
+    },
+    {
       "name": "M83",
       "slug": "m83",
       "cover": "m83.jpg",
@@ -300,6 +424,104 @@
           "title": "Junk",
           "cover": "album7.png",
           "released": "2016"
+        }
+      ]
+    },
+    {
+      "name": "The Scorpions",
+      "slug": "the-scorpions",
+      "cover": "thescorpions.jpg",
+      "formed": "1965",
+      "albums": [
+        {
+          "title": "Lonesome Crow",
+          "cover": "album1.jpg",
+          "released": "1972"
+        },
+        {
+          "title": "Fly to the Rainbow",
+          "cover": "album2.jpg",
+          "released": "1974"
+        },
+        {
+          "title": "In Trance",
+          "cover": "album3.jpg",
+          "released": "1975"
+        },
+        {
+          "title": "Virgin Killer",
+          "cover": "album4.jpg",
+          "released": "1976"
+        },
+        {
+          "title": "Taken by Force",
+          "cover": "album5.jpg",
+          "released": "1977"
+        },
+        {
+          "title": "Lovedrive",
+          "cover": "album6.jpg",
+          "released": "1979"
+        },
+        {
+          "title": "Animal Magnetism",
+          "cover": "album7.jpg",
+          "released": "1980"
+        },
+        {
+          "title": "Blackout",
+          "cover": "album8.png",
+          "released": "1982"
+        },
+        {
+          "title": "Love at First Sting",
+          "cover": "album9.jpg",
+          "released": "1984"
+        },
+        {
+          "title": "Savage Amusement",
+          "cover": "album10.jpg",
+          "released": "1988"
+        },
+        {
+          "title": "Crazy World",
+          "cover": "album11.jpg",
+          "released": "1990"
+        },
+        {
+          "title": "Face the Heat",
+          "cover": "album12.jpg",
+          "released": "1993"
+        },
+        {
+          "title": "Pure Instinct",
+          "cover": "album13.jpg",
+          "released": "1996"
+        },
+        {
+          "title": "Eye II Eye",
+          "cover": "album14.jpg",
+          "released": "1999"
+        },
+        {
+          "title": "Unbreakable",
+          "cover": "album15.jpg",
+          "released": "2004"
+        },
+        {
+          "title": "Humanity: Hour I",
+          "cover": "album16.jpg",
+          "released": "2007"
+        },
+        {
+          "title": "Sting in the Tail",
+          "cover": "album17.jpg",
+          "released": "2010"
+        },
+        {
+          "title": "Return to Forever",
+          "cover": "album18.jpg",
+          "released": "2015"
         }
       ]
     },
