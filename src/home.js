@@ -5,10 +5,13 @@ import Label from './components/label'
 import CircleProfile from './components/circleprofile'
 
 class Home extends React.Component {
+  constructor(props) {
+    super();
+  }
   componentDidMount() {
     window.scrollTo(0, 0)
   }
-  
+
   render() {
     return (
       <div className='main-content'>
